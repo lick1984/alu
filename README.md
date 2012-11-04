@@ -25,5 +25,5 @@ shrink valid bit wide
 ### BitArray.Not()
 set not value
 
-# TODO
+## TODO
 * 32 bit wide support
